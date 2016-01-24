@@ -1,0 +1,17 @@
+{
+    "name": "llvdl/util-utf8",
+    "description": "Utf8 utility function(s)",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "llvdl",
+            "email": "llvdl@protonmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Llvdl\\": "src/Llvdl/"
+        }
+    }
+}
